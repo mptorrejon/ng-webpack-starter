@@ -1,4 +1,4 @@
-# Angular **1.5** started with Webpack
+# Angular **1.5** starter with Webpack
 
 ## What this is...
 This is just a template project to start developing using Angular 1.5 and Webpack. If you like to know how to include
